@@ -6,7 +6,7 @@ let etapas = [{
                 nome: 'Leandro Facim',
                 partido: 'PROGRAMADORES',
                 fotos: [
-                    { url: '381111.jpg', legenda: 'Vereador', small: false }
+                    { url: '38111.jpg', legenda: 'Vereador', small: false }
                 ]
             },
             {
@@ -28,8 +28,8 @@ let etapas = [{
                 partido: 'DESENVOLVEDORES',
                 vice: 'Kelly Amaral',
                 fotos: [
-                    { url: '15.jpg', legenda: 'Prefeito' },
-                    { url: '15_2.jpg', legenda: 'Vice-Prefeito', small: true }
+                    { url: '84.jpg', legenda: 'Prefeito' },
+                    { url: '84_2.jpg', legenda: 'Vice-Prefeito', small: true }
                 ]
             },
             {
@@ -38,8 +38,8 @@ let etapas = [{
                 partido: 'REDES',
                 vice: 'Rominho',
                 fotos: [
-                    { url: '54.jpg', legenda: 'Prefeito' },
-                    { url: '54_2.jpg', legenda: 'Vice-Prefeito', small: true }
+                    { url: '99.jpg', legenda: 'Prefeito' },
+                    { url: '99_2.jpg', legenda: 'Vice-Prefeito', small: true }
                 ]
             },
         ]
